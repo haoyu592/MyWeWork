@@ -25,12 +25,10 @@
 ### 效果
 1. 自动打开红包，功能只能在聊天会话页面使用，但是可以在后台，继续抢
 2. 旧版本会存在多个红包并发，抢失败的情况，v2.0修复了
-3. ~~仔细想了想应该不会封号，还能把你开除企业么？🤔~~
 
 ### 注意
 1. 非越狱手机推送是不可能推送的，这辈子都不会有推送
-2. [编译好的企业微信2.7.0-Debug.ipa文件](https://pan.baidu.com/s/1F2Le6edDG6ZeRdJ7fFXUsQ)  密码:9mib
-3. [MyWeWork仓库地址](https://github.com/harddog/MyWeWork)
+2. [MyWeWork仓库地址](https://github.com/harddog/MyWeWork)
 
 ### 感谢
 1. 感谢 [MonkeyDev](https://github.com/AloneMonkey/MonkeyDev)，在没有越狱机的情况下还能简单的调试编写
@@ -48,3 +46,6 @@
 >简书：<https://www.jianshu.com/u/a0e2f8047033>   
 github：<https://github.com/harddog>  
 
+<br>
+如果对您有帮助，欢迎打赏和Star：<br>
+ <img src="./IMG_0358.JPG" width = "40%" height = "40%" alt="如果对您有帮助，欢迎打赏" align=center />
